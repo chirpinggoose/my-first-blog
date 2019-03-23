@@ -2,7 +2,6 @@
 *~
 __pycache__
 venv
-myvenv
 db.sqlite
-/statc
+/static
 .DS_Store
